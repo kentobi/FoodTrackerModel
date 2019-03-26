@@ -1,0 +1,68 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 6,
+      "symbol": "Meal",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 10,
+      "symbol": "Meal.name",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 11,
+      "symbol": "Meal.photo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 12,
+      "symbol": "Meal.rating",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 29,
+      "symbol": "Meal.init(name:photo:rating:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 55,
+      "symbol": "Meal.encode(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 61,
+      "symbol": "Meal.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 81,
+      "symbol": "Meal.saveMeals(meals:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel/FoodTrackerModel/Classes/Meal.swift",
+      "line": 90,
+      "symbol": "Meal.loadMeals()",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/hoepfnerto/Downloads/FoodTracker-model-pod/FoodTrackerModel"
+}
